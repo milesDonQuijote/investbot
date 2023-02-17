@@ -1,4 +1,4 @@
-TOKEN = '5781183706:AAH6kfq36YM-0qimFhn34yVoIqAGuhBYILE'
+TOKEN = ''
 
 WELCOME_TEXT = 'Welcome! This bot provides some currency data collected from investing.com.' \
                '\nPlease select the information you would like to receive.'
